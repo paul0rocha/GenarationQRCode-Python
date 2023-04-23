@@ -5,6 +5,6 @@ The project consists of creating zpl of location identification via qrcode in bu
 
 
 
-![o2](https://user-images.githubusercontent.com/63813811/233819277-49ae020b-c1c2-41a5-9394-389b6e910be3.png)
+![o2](https://user-images.githubusercontent.com/63813811/233819341-671c82a8-d08c-4095-beb4-d631c39644c0.png)
 
 #### Tks!
