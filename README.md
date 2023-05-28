@@ -1,7 +1,7 @@
-## Gereration QRCode Idenity Locations
+## Gereration QRCode Identity Locations
 
 
- ![Img](https://github.com/steniowagner/mindCast/assets/63813811/f4d97acf-4ecb-47bf-a6df-7c03cc8439af)
+ ![Img](https://github.com/steniowagner/mindCast/assets/63813811/9382fe76-8c23-4af3-98aa-1edb04f0e96d)
 
 
 
